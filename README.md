@@ -12,7 +12,8 @@ Mock-up
 
 Demo
 
-![budget-tracker-ultimate-demo](https://user-images.githubusercontent.com/71200950/159205347-427090f7-2da5-47f0-bc8d-c03c1a6c98cc.png)
+
+![budget-tracker-ultimate-demo](https://user-images.githubusercontent.com/71200950/159232883-0f21e1fd-9bed-4e8d-a61d-b66179983d70.png)
 
 
 ### Built With
