@@ -31,8 +31,6 @@ Demo
 > THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated       
 
 ### Visuals 📹
-#### From Assignment
-![image](https://user-images.githubusercontent.com/77648727/120938604-67abc000-c6c8-11eb-81a4-22cd18d3c785.png)
 
 ### Acknowledgements & Resources 🤝
 
