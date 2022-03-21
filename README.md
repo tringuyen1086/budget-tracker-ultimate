@@ -8,9 +8,11 @@ The Budget Tracker Ultimate provides users with offline access and functionality
 ### Visual
 Mock-up
 
+![budget-tracker-ultimate-mock-up](https://user-images.githubusercontent.com/71200950/159205340-dba98545-830b-45ec-a430-b1b1deec7ed2.png)
 
 Demo
 
+![budget-tracker-ultimate-demo](https://user-images.githubusercontent.com/71200950/159205347-427090f7-2da5-47f0-bc8d-c03c1a6c98cc.png)
 
 
 ### Built With
