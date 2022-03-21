@@ -3,7 +3,9 @@
 The Budget Tracker Ultimate provides users with offline access and functionality. Users can add and subtract funds to their budget's current balance with or without an internet connection. If transactions are entered during offline session, changes should be updated as soon as there is an internet connection.  
 
 ### Live Application
-[Live Application](https://budget-tracker-ultimate.herokuapp.com/)
+- [Buget Tracker Ultimate - Live Application](https://budget-tracker-ultimate.herokuapp.com/)
+
+
 
 ### Visual
 Mock-up
@@ -33,8 +35,10 @@ Demo
 > WHEN the user reestablishes an internet connection       
 > THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated       
 
-### Visuals 📹
+### Visuals
 
-### Acknowledgements & Resources 🤝
+### Acknowledgements & Resources
 
-UC Berkeley Extension Coding Bootcamp - Module 19: Progressive Web Applications (PWA) Challenge: Budget Tracker
+- UC Berkeley Extension Coding Bootcamp - Module 19: Progressive Web Applications (PWA) Challenge: Budget Tracker
+- [Heroku - Deploying with Git](https://devcenter.heroku.com/articles/git)
+- [MongoBD - Get Started with Atlas](https://docs.atlas.mongodb.com/getting-started/)
