@@ -13,8 +13,8 @@ const FILES_TO_CACHE = [
   "icons/icon-512x512.png",
 ];
 
-const APP_PREFIX = "Budget-";
-const VERSION = "version_001";
+const APP_PREFIX = "BudgetApp-";
+const VERSION = "version_1";
 const CACHE_NAME = APP_PREFIX + VERSION;
 
 // install the service worker
